@@ -12,7 +12,7 @@
 			<key>name</key>
 			<string>gowiki</string>
 			<key>regexFileFilter</key>
-			<string>\.go$</string>
+			<string>\.(go|gitignore)$</string>
 			<key>regexFolderFilter</key>
 			<string>!.*/(\.[^/]*|CVS|_darcs|_MTN|\{arch\}|blib|.*~\.nib|.*\.(framework|app|pbproj|pbxproj|xcode(proj)?|bundle))$</string>
 			<key>sourceDirectory</key>
@@ -28,14 +28,14 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>0</integer>
+				<integer>1</integer>
 				<key>line</key>
-				<integer>6</integer>
+				<integer>39</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>0</integer>
+			<integer>23</integer>
 		</dict>
 	</dict>
 	<key>openDocuments</key>
